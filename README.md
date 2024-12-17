@@ -2,6 +2,10 @@
 
 > A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools. Many of these tools come with "batteries included" and won't include colabs or python code you have to run.
 
+ 
+## If you find this list valuable
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/usamasaqib)
 
 ## Contents
 
@@ -5537,10 +5541,7 @@ Build-your-own, Productivity, General purpose
 
 </details>
 
- 
-## If you find this list valuable
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/usamasaqib)
 
 ## Contribute
 
