@@ -6,6 +6,7 @@
 ## If you find this list valuable
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/usamasaqib)
+<a href="https://www.producthunt.com/posts/ai-tools-list-2024?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ai&#0045;tools&#0045;list&#0045;2024" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=712778&theme=dark" alt="AI&#0032;tools&#0032;list&#0032;&#0045;&#0032;2024 - AI&#0044;&#0032;tools&#0044;&#0032;productive&#0044;&#0032;creativepromptai | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## Contents
 
