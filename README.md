@@ -118,12 +118,16 @@ Models, commercial and open source, that you can either try for free and pay for
   - [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) - A rapidly growing Subreddit for Stable Diffusion related content - Community Run
   - [r/MidJourney](https://www.reddit.com/r/midjourney/) - The official subreddit for MidJourney related Content
 
-## Theory & Learning 
+## Theory & Learning
 ### Tutorials
   - [How to get images that don't suck](https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/?utm_source=share&utm_medium=web2x&context=3) - A Beginner/Intermediate Guide to Getting Cool Images from Stable Diffusion, by [u/pxan](https://www.reddit.com/user/pxan/) on Reddit
   - [Steps for getting better images](https://www.reddit.com/r/StableDiffusion/comments/x6kjdh/steps_for_getting_better_images/) - A good guide published on the r/StableDiffusion subreddit detailing good prompt crafting.
   - [A-Traveler-s-Guide-to-the-Latent-Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f#68987404382d4807b57204429d50e53d) - In depth guide for prompt engineering. 
   - [Dalle2 prompt book](https://dallery.gallery/the-dalle-2-prompt-book/) - A great, visual intro to prompt creation by [@guyp](https://twitter.com/guyp) - Dalle focused
+
+### Knowledge Bases
+- [NodeLand](https://nodeland.io) - A platform that uses AI to generate summaries about any topic through mind maps. It can also summarize documents and web pages.- [Demo Video](https://www.youtube.com/watch?v=IqfkuJV2pgo)
+
 
 ### YouTube Video Resources
   - [bycloud](https://www.youtube.com/c/bycloudAI) - A channel focused on AI related content, with a lot of content foscusing on AI-Generated artwork.
