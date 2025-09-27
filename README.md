@@ -4856,6 +4856,28 @@ Coding
 </details>
 
 
+## [new.website](https://new.website)
+AI-powered website creation platform
+<details>
+
+### Category
+Web design, Design, No-code, Marketing
+
+### Description
+The fastest way to create a beautiful website in minutes with AI-powered site creation and built-in business tools
+- AI-powered site creation: Go from idea to polished website in minutes
+- Built-in forms: Capture leads and customer inquiries without extra tools. See responses in your dashboard
+- Analytics dashboard: Track visitors, engagement, and performance at a glance
+- SEO optimization: Ensure your site is discoverable on Google from the start
+- Media management: Upload and organize images, videos, and assets with ease
+- Scalable hosting and storage: Secure, reliable infrastructure that grows with you
+- End-to-end setup: No plugins, no code, no headaches
+
+### Links
+- [Web](https://new.website)
+</details>
+
+
 ## [Naut](https://www.naut.ai/)
 Build your own agents. In early stage
 <details>
