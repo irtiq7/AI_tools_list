@@ -4860,8 +4860,6 @@ Coding
 AI-powered website creation platform
 <details>
 
-![image](https://new.website/favicon.ico)
-
 ### Category
 Web design, Design, No-code, Marketing
 
