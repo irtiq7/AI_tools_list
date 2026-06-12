@@ -127,6 +127,7 @@ Models, commercial and open source, that you can either try for free and pay for
 
 ### Knowledge Bases
 - [NodeLand](https://nodeland.io) - A platform that uses AI to generate summaries about any topic through mind maps. It can also summarize documents and web pages.- [Demo Video](https://www.youtube.com/watch?v=IqfkuJV2pgo)
+- [Remio](https://remio.ai/) - Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors so users and agents can retrieve focused personal context faster than repeatedly scanning files or loading whole documents into prompts.
 
 
 ### YouTube Video Resources
