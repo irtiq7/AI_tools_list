@@ -2304,7 +2304,6 @@ There are four key principles that we followed when developing WrenAI:
 ## [XAgent](https://github.com/OpenBMB/XAgent)
 Experimental LLM agent that solves various tasks
 
-<img src="https://avatars.githubusercontent.com/u/62727998?s=400&v=4" width="400" alt="XAgent">
 
 **Category:** General purpose, Coding
 
