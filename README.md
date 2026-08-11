@@ -3386,6 +3386,19 @@ with AI
 - [Medium blog](https://medium.com/@max_82395)
 - [Templates](https://www.gumloop.com/templates)
 
+## [GPTGeminiGrok.AI](https://trygrokai.asia/)
+Multi-model AI workspace for chat, image generation, and file analysis
+
+**Category:** General purpose, productivity, image generation
+
+**Description:**
+- Provides browser access to GPT, Gemini, Grok, Claude, and DeepSeek model families.
+- Supports chat, image generation, file analysis, and reusable prompts.
+- Requires an account and includes 10 free requests per day.
+
+**Links:**
+- [Website](https://trygrokai.asia/)
+
 ## [Heights Platform](https://www.heightsplatform.com/)
 For course creators, community builders & coaches
 
