@@ -147,6 +147,20 @@ Models, commercial and open source, that you can either try for free and pay for
 
 ## ✍️ AI Agents
 
+## [agent-qa](https://vostride.com)
+AI agent for web and mobile app testing
+
+**Category:** Tool for agents, Debugging, Testing
+
+**Description:**
+- Tests web, Android and iOS apps through CLI/MCP with reviewable run evidence.
+- Combines persistent memidex memory with validated self-improvement across test runs.
+
+**Links:**
+- [Web](https://vostride.com)
+- [GitHub](https://github.com/vostride/agent-qa)
+- [Documentation](https://vostride.com/docs/agent-qa/quickstart)
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 LLM-powered recommender system simulator with 1,000 generative agents
 
